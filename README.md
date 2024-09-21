@@ -2,6 +2,9 @@
 
 This project uses langchain with Groq LLM and Langserve to implement a simple API from which a Streamlit client requests to get an essay written on a specific topic provided by the user. 
 
+Live API [here](https://langserve-essay-writter-api.onrender.com/docs)
+
+View Live Site [here]()
 
 # Essay Writter Running
 ![streamlit](./screenshots/st2.JPG)
