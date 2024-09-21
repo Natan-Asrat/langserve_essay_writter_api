@@ -2,7 +2,7 @@ import requests
 import streamlit as st
 
 def get_essay_response(input_text):
-    response = requests.post("http://localhost:8000/essay/invoke", json={
+    response = requests.post("https://langserve-essay-writter-api.onrender.com/essay/invoke", json={
         'input':{'topic': input_text}
     })
     print(response.json())
