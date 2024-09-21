@@ -4,13 +4,13 @@ This project uses langchain with Groq LLM and Langserve to implement a simple AP
 
 Live API [here](https://langserve-essay-writter-api.onrender.com/docs)
 
-View Live Site [here]()
+View Live Site [here](https://langserve-essay-writter.streamlit.app/)
 
 # Essay Writter Running
-![streamlit](./screenshots/st2.JPG)
+![streamlit](./screenshots/streamlit.JPG)
 
 # API 
-![api docs](./screenshots/essay.JPG)
+![api docs](./screenshots/api.JPG)
 
 # Setup
 - Create virtual environment:  `python -m venv venv`
